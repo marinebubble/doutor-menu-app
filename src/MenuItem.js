@@ -1,5 +1,4 @@
 import React, {useState} from "react";
-import ReadMoreIcon from '@mui/icons-material/ReadMore';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 
 const MenuItem = ({id, title, price, image, desc}) => {
