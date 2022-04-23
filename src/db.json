@@ -1,0 +1,14 @@
+[
+  { "id": 1, "title": "モーニング・セット", "category":"季節のおすすめ", "price":450, "image":"https://www.doutor.co.jp/dcs/common/banners/20220331/season01_s.jpg", "desc":"チーズのクリーミーな味わいとベーコンの薫りが引き立つ、食べ応え抜群のモーニングメニューです。" },
+  { "id": 2, "title": "ミラノサンドC", "category":"季節のおすすめ", "price":480, "image":"https://www.doutor.co.jp/dcs/common/banners/20220323/season06_s.jpg", "desc":"ボリューム感のある鶏もも肉の照り焼きに、相性抜群のたまごタルタルを合わせました。" },
+  { "id": 3, "title": "青森県産りんごヨーグルト", "category":"季節のおすすめ", "price":410, "image":"https://www.doutor.co.jp/dcs/common/banners/20220120/season02_s.jpg", "desc":"青森県産の「紅玉」と「ふじ」を使用したヨーグルトドリンクです。2種のりんごをあわせることで甘さと酸味のバランスがよく、また果肉を加え食感も楽しめるドリンクに仕立てています。" },
+  { "id": 4, "title": "ブレンドコーヒー", "category":"ホットドリンク", "price":275, "image":"https://www.doutor.co.jp/product/file/20110907153810.jpg", "desc":"マイルドな口あたりが特徴で、どなたにも親しんでいただけるコーヒーです。" },
+  { "id": 5, "title": "カプチーノ", "category":"ホットドリンク", "price":326, "image":"https://www.doutor.co.jp/product/file/2136.jpg", "desc":"豊かな泡立ちとまろやかな味わいです。" },
+  { "id": 6, "title": "カフェ・ラテ", "category":"ホットドリンク", "price":326, "image":"https://www.doutor.co.jp/product/file/20110907154342.jpg", "desc":"しっかりしたコーヒー感が自慢のまろやかな味です。" },
+  { "id": 7, "title": "ルイボスティー", "category":"ホットドリンク", "price":255, "image":"https://www.doutor.co.jp/product/file/20200514134532.jpg", "desc":"ノンカフェインで老若男女優しく飲めるハーブティー。<br />自然な甘み、すっきりした味わいでカフェインが気になる方におすすめのドリンクです。" },
+  { "id": 8, "title": "宇治抹茶ラテ", "category":"ホットドリンク", "price":418, "image":"https://www.doutor.co.jp/product/file/20140116130848.jpg", "desc":"宇治抹茶とミルクがマッチした絶妙な味わいです。" },
+  { "id": 9, "title": "アイス沖縄黒糖ラテ", "category":"ホットドリンク", "price":255, "image":"https://www.doutor.co.jp/product/file/20191031130115.jpg", "desc":"黒糖の深い味わいとまろやかさが広がる、風味豊かなラテです。" },
+  { "id": 10, "title": "アイスコーヒー", "category":"アイスドリンク", "price":275, "image":"https://www.doutor.co.jp/product/file/20110912122047.jpg", "desc":"アラビカ種を100％使用し、苦味を抑え香ばしさと甘味を感じられる一杯に仕上げました。" },
+  { "id": 11, "title": "アイスカフェラテ", "category":"アイスドリンク", "price":326, "image":"https://www.doutor.co.jp/product/file/20110912122326.jpg", "desc":"コーヒーと冷たいミルクのバランスを追求した、人気の定番ドリンクです。" },
+  { "id": 12, "title": "アイスロイヤルミルクティー", "category":"アイスドリンク", "price":357, "image":"https://www.doutor.co.jp/product/file/206606.jpg", "desc":"ミルク感を持たせながらも紅茶の香りとコクがしっかりと感じられます。" }
+]
