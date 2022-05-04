@@ -1,6 +1,6 @@
 # Getting Started with Create React App
-Deployed project url: https://doutor-menu-project.netlify.app
-¥nThis project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Deployed project url: https://doutor-menu-project.netlify.app \
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## How to run this project:
 
